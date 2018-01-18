@@ -1,2 +1,2 @@
-# Duck
-Files for the coding course
+Daniel
+Robles Garcia
